@@ -3,12 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Escritório de Advocacia Fragnan & Dias do Valle</title>
+    <title>Escritório de Advocacia FD Valle</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+        img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
 <body>
-    <h1>Escritório de Advocacia FD Valle</h1>
-    <p>Bem-vindo ao nosso escritório de advocacia. Somos especializados em...</p>
-    <p>Para entrar em contato conosco pelo WhatsApp, clique <a href="https://wa.me/5511999999999" target="_blank">aqui</a>.</p>
+    <a href="mailto:email@fdvalle.com.br">
+        <img src="landing-page.png" alt="Escritório de Advocacia FD Valle">
+    </a>
 </body>
 </html>
-
