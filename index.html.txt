@@ -16,8 +16,9 @@
     </style>
 </head>
 <body>
-    <a href="mailto:email@fdvalle.com.br">
-        <img src="landing-page.png" alt="Escritório de Advocacia FD Valle">
-    </a>
+    <img src="landing-page.png" alt="Escritório de Advocacia Fragnan & Dias do Valle" usemap="#image-map">
+    <map name="image-map">
+    <area target="" alt="whatsapp" title="whatsapp" href="https://wa.me/5517991159620" coords="536,6853,831,7160" shape="rect">
+</map>
 </body>
 </html>
