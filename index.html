@@ -17,11 +17,18 @@
             display: block;
         }
     </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/rwdImageMaps/1.6/jquery.rwdImageMaps.min.js"></script>
 </head>
 <body>
     <img src="landing-page.png" alt="Escritório de Advocacia Fragnan & Dias do Valle" usemap="#image-map">
     <map name="image-map">
         <area target="_blank" alt="Whatsapp FDV" title="Whatsapp FDV" href="https://wa.me/5517991159620" coords="535,6850,830,7160" shape="rect">
     </map>
+    <script>
+        $(document).ready(function() {
+            $('img[usemap]').rwdImageMaps();
+        });
+    </script>
 </body>
 </html>
+
