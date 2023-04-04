@@ -3,22 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Escritório de Advocacia FD Valle</title>
+    <title>Escritório de Advocacia Fragnan & Dias do Valle</title>
     <style>
         body {
             margin: 0;
-            overflow: hidden;
+            padding: 0;
+            overflow-x: hidden;
+            overflow-y: auto;
         }
         img {
             width: 100%;
             height: auto;
+            display: block;
         }
     </style>
 </head>
 <body>
     <img src="landing-page.png" alt="Escritório de Advocacia Fragnan & Dias do Valle" usemap="#image-map">
     <map name="image-map">
-    <area target="" alt="whatsapp" title="whatsapp" href="https://wa.me/5517991159620" coords="536,6853,831,7160" shape="rect">
-</map>
+        <area target="" alt="whatsapp" title="whatsapp" href="https://wa.me/5517991159620" coords="536,6853,831,7160" shape="rect">
+    </map>
 </body>
 </html>
+
